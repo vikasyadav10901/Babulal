@@ -3,6 +3,7 @@ provider "azurerm" {
 version = "2.2.0"
 features {}
     subscription_id = "734a5e6d-bffc-423b-8bb5-67d02e0ceb04"
+    tenantId": "189de737-c93a-4f5a-8b68-6f4ca9941912"
 }
 
 
