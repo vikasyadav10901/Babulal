@@ -4,7 +4,7 @@ version = "2.92.0"
 features {}
     subscription_id = "734a5e6d-bffc-423b-8bb5-67d02e0ceb04"
     tenant_id ="189de737-c93a-4f5a-8b68-6f4ca9941912"
-    client_id = "119ab384c254e9a68ea0cb56d60435948e"
+    
 }
 
 
